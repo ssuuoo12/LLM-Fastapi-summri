@@ -1,12 +1,13 @@
 # LLM 기반 FastAPI사용한 핵심봇
 
 FastAPI + Spring Boot 기반 챗봇 시스템으로, 사용자 텍스트 입력을 바탕으로 요약한 텍스트를 답변해주는 핵심봇입니다.
+
 Hugging face모델 : https://huggingface.co/lcw99/t5-base-korean-text-summary
 ---
 
-## 주요 기능
+### 주요 기능
 
-- 텍스트 요약
+- 사용자가 입력한 텍스트 요약
 ---
 
 ## 기술 스택
