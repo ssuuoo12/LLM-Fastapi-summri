@@ -28,7 +28,7 @@ Hugging face모델 : https://huggingface.co/lcw99/t5-base-korean-text-summary
 ```bash
 cd FastAPI
 uvicorn main:app --reload
-// or
+# or
 python main.py
 ```
 #### main.py에 설정한 포트로 실행하여 모델이 잘 작동하는지 확인 
