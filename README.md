@@ -27,11 +27,14 @@ Hugging face모델 : https://huggingface.co/lcw99/t5-base-korean-text-summary
 
 ```bash
 cd FastAPI
-uvicorn main:app --reload or python main.py
+uvicorn main:app --reload
+// or
+python main.py
 ```
 #### main.py에 설정한 포트로 실행하여 모델이 잘 작동하는지 확인 
 
 ### Spring boot 서버 실행 (VSCode)
 refresh gradle => 서버 restart => localhost:8080로 프로토타입(화면) 출력
 사용자 최대 입력 토큰 수 : 512
+
 출력은 최대 100토큰까지 생성하게 제한
