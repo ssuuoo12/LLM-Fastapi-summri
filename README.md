@@ -50,5 +50,5 @@ python main.py
 
 
 ## 개발자 정보
-- [GitHub 블로그](https://)
+- [GitHub 블로그](https://ssuuoo12.github.io/)
 - 이메일: ssszzy333@gmail.com
