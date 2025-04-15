@@ -25,7 +25,7 @@ FastAPI + Spring Boot 기반 챗봇 시스템으로, 사용자 텍스트 입력�
 | 프론트엔드 | JSP, HTML, CSS |
 | 백엔드     | Spring Boot, FastAPI |
 | AI         | Python, Hugging Face |
-| 배포       | Localhost (시연용) |
+
 
 ## 시스템 구조
 ![시스템 구조도](./images/system-architecture.png)
