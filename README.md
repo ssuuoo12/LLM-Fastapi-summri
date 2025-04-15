@@ -34,7 +34,7 @@ FastAPI + Spring Boot 기반 챗봇 시스템으로, 사용자 텍스트 입력�
 ### FastAPI 서버 실행 (VSCode)
 ```bash
 # 디렉토리 이동
-cd FastAPI
+cd backend-api
 
 # 서버 실행 (옵션 1)
 uvicorn main:app --reload
