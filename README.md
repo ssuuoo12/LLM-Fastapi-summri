@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/huggingface-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 FastAPI + Spring Boot 기반 챗봇 시스템으로, 사용자 텍스트 입력을 바탕으로 요약한 텍스트를 답변해주는 핵심봇입니다.
